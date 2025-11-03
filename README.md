@@ -10,4 +10,4 @@ Tasarım, minimalist bir yaklaşım benimseyerek moda tasarımı geçmişimi ve 
 
 Prototipin tıklanabilir (About/Contact geçişleri) halini görmek için lütfen aşağıdaki linke tıklayın:
 
-[Buraya Tıkla: Çalışan Figma Prototipi](https://www.figma.com/proto/SHxQerFgtX0SazfDEYEHhb/Untitled?node-id=10-1-2&t=FU7sMngXKBXkNYX-1)
+[Buraya Tıkla: Çalışan Figma Prototipi](https://www.figma.com/proto/SHcQorFgtX0SazH3EYEhhb/Untitled?node-id=1-2&p=f&t=OfqYFZiOQfSpQvfC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
